@@ -42,5 +42,4 @@ This **Point of Sale (POS) System** is a robust and user-friendly application de
 - **Database**: SQL Server  
 - **IDE**: Microsoft Visual Studio
 
-## License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. 
+
