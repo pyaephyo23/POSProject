@@ -32,9 +32,6 @@ This **Point of Sale (POS) System** is a robust and user-friendly application de
    - Daily, weekly, and monthly sales reports.  
    - Inventory restock alerts.  
    - Performance dashboards.
-2. **Backup and Restore**  
-   - Scheduled data backup for disaster recovery.  
-   - Restore data from backups when necessary.
 
 ## Technologies Used  
 - **Programming Language**: C#  
